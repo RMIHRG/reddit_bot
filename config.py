@@ -1,5 +1,5 @@
 username = 'pullthefuckingtriggr'
-password = 'PASSWORDHERE'
+password = 'pythonbot'
 client_id = 'y1Hj1dNcpdYHSg'
 client_secret = 'Ro9kXjSMse5Crr94FAhZI9aOcT8'
 
