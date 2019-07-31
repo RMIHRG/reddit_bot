@@ -1,7 +1,7 @@
-username = 'pullthefuckingtriggr'
-password = 'pythonbot'
-client_id = 'y1Hj1dNcpdYHSg'
-client_secret = 'Ro9kXjSMse5Crr94FAhZI9aOcT8'
+username = 'USERNAME'
+password = 'PASSWORD'
+client_id = 'ID'
+client_secret = 'SECRET'
 
 
 #Subreddit
